@@ -26,37 +26,37 @@ Being this project mainly focus on the data tidy skill, therefore the output jus
 * Select 15 variables from the tidy data set and store in a new independent tidy data set 'variableSet' for the analysis. Calculate the average of each variable for each activity and each subject. Finally, export the result to a text file.
 
 # Selected measurements / variables for the analysis
-* activityName - the activity name
-* subjectID - the identify of who performed the activities
-* tBodyAcc_Mean_X - the mean of the X-axial acceleration signal that was separated into body 
-* tBodyAcc_Mean_Y - the mean of the Y-axial acceleration signal that was separated into body 
-* tBodyAcc_Mean_Z - the mean of the Z-axial acceleration signal that was separated into body 
-* tBodyAcc_std_X - the standard deviation of the X-axial acceleration signal that was separated into body 
-* tBodyAcc_std_Y - the standard deviation of the X-axial acceleration signal that was separated into body 
-* tBodyAcc_std_Z - the standard deviation of the X-axial acceleration signal that was separated into body 
-* tGravityAcc_mean_X - the mean of the X-axial acceleration signal that was separated into gravity
-* tGravityAcc_mean_Y - the mean of the Y-axial acceleration signal that was separated into gravity
-* tGravityAcc_mean_Z - the mean of the Z-axial acceleration signal that was separated into gravity
-* tGravityAcc_std_X - the standard deviation of the X-axial acceleration signal that was separated into gravity 
-* tGravityAcc_std_Y - the standard deviation of the Y-axial acceleration signal that was separated into gravity
-* tGravityAcc_std_Z - the standard deviation of the Z-axial acceleration signal that was separated into gravity 
+* activityName  , the activity name
+* subjectID  , the identify of who performed the activities
+* tBodyAcc_Mean_X  , the mean of the X-axial acceleration signal that was separated into body 
+* tBodyAcc_Mean_Y  , the mean of the Y-axial acceleration signal that was separated into body 
+* tBodyAcc_Mean_Z  , the mean of the Z-axial acceleration signal that was separated into body 
+* tBodyAcc_std_X  , the standard deviation of the X-axial acceleration signal that was separated into body 
+* tBodyAcc_std_Y  , the standard deviation of the X-axial acceleration signal that was separated into body 
+* tBodyAcc_std_Z  , the standard deviation of the X-axial acceleration signal that was separated into body 
+* tGravityAcc_mean_X  , the mean of the X-axial acceleration signal that was separated into gravity
+* tGravityAcc_mean_Y  , the mean of the Y-axial acceleration signal that was separated into gravity
+* tGravityAcc_mean_Z  , the mean of the Z-axial acceleration signal that was separated into gravity
+* tGravityAcc_std_X  , the standard deviation of the X-axial acceleration signal that was separated into gravity 
+* tGravityAcc_std_Y  , the standard deviation of the Y-axial acceleration signal that was separated into gravity
+* tGravityAcc_std_Z  , the standard deviation of the Z-axial acceleration signal that was separated into gravity 
 
 # Ouput - variables and export the result to a text file
 [Ouput variables]
-* activityName - the activity name
-* subjectID - the identify of who performed the activities
-* avg_tBodyAcc_Mean_X - the average of the mean of the X-axial acceleration signal that was separated into body 
-* avg_tBodyAcc_Mean_Y - the average of the mean of the Y-axial acceleration signal that was separated into body 
-* avg_tBodyAcc_Mean_Z - the average of the mean of the Z-axial acceleration signal that was separated into body 
-* avg_tBodyAcc_std_X - the average of the standard deviation of the X-axial acceleration signal that was separated into body 
-* avg_tBodyAcc_std_Y - the average of the standard deviation of the X-axial acceleration signal that was separated into body 
-* avg_tBodyAcc_std_Z - the average of the standard deviation of the X-axial acceleration signal that was separated into body 
-* avg_tGravityAcc_mean_X - the average of the mean of the X-axial acceleration signal that was separated into gravity
-* avg_tGravityAcc_mean_Y - the average of the mean of the Y-axial acceleration signal that was separated into gravity
-* avg_tGravityAcc_mean_Z - the average of the mean of the Z-axial acceleration signal that was separated into gravity
-* avg_tGravityAcc_std_X - the average of the standard deviation of the X-axial acceleration signal that was separated into gravity 
-* avg_tGravityAcc_std_Y - the average of the standard deviation of the Y-axial acceleration signal that was separated into gravity
-* avg_tGravityAcc_std_Z - the average of the standard deviation of the Z-axial acceleration signal that was separated into gravity 
+* activityName  , the activity name
+* subjectID  , the identify of who performed the activities
+* avg_tBodyAcc_Mean_X  , the average of the mean of the X-axial acceleration signal that was separated into body 
+* avg_tBodyAcc_Mean_Y  , the average of the mean of the Y-axial acceleration signal that was separated into body 
+* avg_tBodyAcc_Mean_Z  , the average of the mean of the Z-axial acceleration signal that was separated into body 
+* avg_tBodyAcc_std_X  , the average of the standard deviation of the X-axial acceleration signal that was separated into body 
+* avg_tBodyAcc_std_Y  , the average of the standard deviation of the X-axial acceleration signal that was separated into body 
+* avg_tBodyAcc_std_Z  , the average of the standard deviation of the X-axial acceleration signal that was separated into body 
+* avg_tGravityAcc_mean_X  , the average of the mean of the X-axial acceleration signal that was separated into gravity
+* avg_tGravityAcc_mean_Y  , the average of the mean of the Y-axial acceleration signal that was separated into gravity
+* avg_tGravityAcc_mean_Z  , the average of the mean of the Z-axial acceleration signal that was separated into gravity
+* avg_tGravityAcc_std_X  , the average of the standard deviation of the X-axial acceleration signal that was separated into gravity 
+* avg_tGravityAcc_std_Y  , the average of the standard deviation of the Y-axial acceleration signal that was separated into gravity
+* avg_tGravityAcc_std_Z  , the average of the standard deviation of the Z-axial acceleration signal that was separated into gravity 
 
 [Text file]
 * File name: run_analysis_result.txt
